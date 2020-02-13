@@ -32,3 +32,6 @@ Paso 3: Elige descargar el archivo destinado al sistema operativo que utilizas (
 Paso 1: Buscar Git.com en el navegador 
 
 Paso 2: Ingresa a la pagina que te mande a este [Lugar](https://git-scm.com/)
+
+Paso 3: Asi debería lucir la página:
+![alt text](https://i.paste.pics/992cb216908d0729b990b98434737dc7.png)
