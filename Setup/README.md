@@ -9,7 +9,8 @@ Paso 3: Se baja el archivo de instlación del siguiente:
 Es importante bajar el sdk, porque **vamos a programar**
 
 La página se ve así:
-![alt text](https://drive.google.com/file/d/1Ezvq8enxrIsY-b9exZxZNvAc_A_Nvy9_/view?usp=sharing )
+![alt text](https://drive.google.com/file/d/14XQM_4vyJbQENjG8IddH90SDcsfNOfcc/view?usp=sharing)
+
 
 
 
