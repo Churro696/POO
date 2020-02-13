@@ -29,3 +29,6 @@ Paso 3: Elige descargar el archivo destinado al sistema operativo que utilizas (
 
 
 # Instalación de git. conectado a tu cuenta de GitHub y VSC.
+Paso 1: Buscar Git.com en el navegador 
+
+Paso 2: Ingresa a la pagina que te mande a este [Lugar](https://git-scm.com/)
