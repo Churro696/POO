@@ -2,7 +2,7 @@
 # Ejercicio de Markdown
 
 # Instalación de dotnet core 3.1.
-Paso 1: Buscar dotnet core 3.1 en el buscador 
+Paso 1: Buscar dotnet core 3.1 en el navegador
 
 Paso 2: Ingresar a la página de Microsoft
 
@@ -18,6 +18,13 @@ La página se ve así:
 
 
 # Instalación y configuración de Visual Studio Code para C#.
+Paso 1: Buscar Visual Studio Code en el navegador 
+
+Paso 2: Ingresar a la página de Visual Studio Code [Lugar](
+https://code.visualstudio.com/download=)
+
+Paso 3: Elige descargar el archivo destinado al sistema operativo que utilizas (Ya sea Windows, Linux o Mac)
+
 
 
 # Instalación de git. conectado a tu cuenta de GitHub y VSC.
