@@ -20,7 +20,7 @@ La página se ve así:
 # Instalación y configuración de Visual Studio Code para C#.
 Paso 1: Buscar Visual Studio Code en el navegador 
 
-Paso 2: Ingresar a la página de Visual Studio Code [Lugar](
+Paso 2: Ingresar a la página de Visual Studio Code en el siguiente: [Lugar](
 https://code.visualstudio.com/download=)
 
 Paso 3: Elige descargar el archivo destinado al sistema operativo que utilizas (Ya sea Windows, Linux o Mac)
