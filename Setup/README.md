@@ -9,7 +9,7 @@ Paso 3: Se baja el archivo de instlación del siguiente:
 Es importante bajar el sdk, porque **vamos a programar**
 
 La página se ve así:
-![img alt](https://paste.pics/a4a3a31c732d293eeda0904741b5b671)
+![alt text](https://i.paste.pics/a4a3a31c732d293eeda0904741b5b671.png "Netcore")
 
 
 
